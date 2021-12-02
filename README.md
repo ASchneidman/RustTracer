@@ -9,4 +9,4 @@ A (for now) commandline raytracer implemented in Rust.
 - Load obj files
 
 
-![output.png](Output)
+![output](output.png)
