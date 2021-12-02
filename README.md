@@ -7,3 +7,6 @@ A (for now) commandline raytracer implemented in Rust.
 - Write to an image buffer
 - Camera representation
 - Load obj files
+
+
+![output.png](Output)
